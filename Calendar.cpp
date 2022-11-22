@@ -135,4 +135,5 @@ int main() {
 		printf("\nERROR: Wrong answer! It should be y or n.\n\n");
 		goto question;
 	}
+	system("pause");
 }
